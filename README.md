@@ -1,4 +1,4 @@
-[README (2).md](https://github.com/user-attachments/files/17264267/README.2.md)
+
 
 <h1 align="center">Hi 👋, I'm Sreekar Gudipati</h1>
 <h2 align="center">A Software Developer, Machine Learning Researcher and Entrepreneur</h2>
