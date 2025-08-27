@@ -4,7 +4,7 @@
 <h2 align="center">A Software Developer, Machine Learning Researcher and Entrepreneur</h2>
 
 - 💬 Ask me about what I am currently working on!
-- 📫 How to reach me **sreekargudi@outlook.com**
+- 📫 How to reach me **gudipati@purdue.edu**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/sreekargudipati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sreekargudipati" height="30" width="40" /></a>
